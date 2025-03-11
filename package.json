@@ -1,0 +1,29 @@
+{
+  "name": "express-mongodb",
+  "version": "1.0.0",
+  "description": "test learn ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasam2121/EXPRESS-MONGODB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasam2121/EXPRESS-MONGODB/issues"
+  },
+  "homepage": "https://github.com/sasam2121/EXPRESS-MONGODB#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
